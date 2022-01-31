@@ -1,1 +1,1 @@
-Testing Plasmic integration with Gatsby
+Testing Plasmic integration ( including custom complentnts ) with Gatsby 
