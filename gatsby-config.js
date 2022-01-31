@@ -28,7 +28,7 @@ module.exports = {
           "./src/templates/plasmicDefaultPageTemplate.tsx"
         ),
         // Optionally specify pages to ignore.
-        ignorePaths: ["/my-page"],
+        ignorePaths: ["/", "/[slug]"],
       },
     },
     "gatsby-plugin-sitemap",
